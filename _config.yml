@@ -1,7 +1,7 @@
 # Site settings
 title: Ushahidi Guide
 email: bostoncello@gmail.com
-description: "Ushahidi documentation for practices and tools around v3 Ushahidi platform"
+description: "Ushahidi docs for practices and tools around v3 Ushahidi platform"
 baseurl: "/ush_guide/"
 url: "http://jcrowley.net"
 twitter_username: jcrowley

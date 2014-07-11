@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ushahidi Guide Outline
-date: {}
-categories: jekyll update
+date: 2014-07-11
+categories: toolkit
 published: true
 category: 
   - manual

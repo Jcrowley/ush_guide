@@ -19,7 +19,7 @@ prose:
           - name: "layout"
             field:
               element: "hidden"
-              value: "guide"
+              value: "post"
           - name: "category"
             field:
               element: "multiselect"

@@ -2,7 +2,7 @@
 title: Ushahidi Guide
 email: bostoncello@gmail.com
 description: "Ushahidi documentation for practices and tools around v3 Ushahidi platform"
-baseurl: "/guide/"
+baseurl: "/ush_guide/"
 url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll

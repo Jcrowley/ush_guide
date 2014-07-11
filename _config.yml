@@ -3,9 +3,9 @@ title: Ushahidi Guide
 email: bostoncello@gmail.com
 description: "Ushahidi documentation for practices and tools around v3 Ushahidi platform"
 baseurl: "/ush_guide/"
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://jcrowley.net"
+twitter_username: jcrowley
+github_username:  jcrowley
 
 # Build settings
 markdown: kramdown

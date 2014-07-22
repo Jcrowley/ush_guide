@@ -5,12 +5,4 @@ permalink: /guide.html
 
 ---
 
-The homepage for the Guide. Explains the Guide, Manual, Toolkit, and Quickstart Guide.
-
-### Guide
-
-### Toolkit
-
-### Manual
-
-### Quickstart Guide
+The homepage for the Guide. [Links to the outline](outline.html).

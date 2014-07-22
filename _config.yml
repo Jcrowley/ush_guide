@@ -2,7 +2,7 @@
 title: Ushahidi Guide
 email: bostoncello@gmail.com
 description: "Ushahidi docs for practices and tools around v3 Ushahidi platform"
-baseurl: "/guide/"
+baseurl: "/ush_guide/"
 url: "http://jcrowley.net/guide/"
 twitter_username: jcrowley
 github_username:  jcrowley

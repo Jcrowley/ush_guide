@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Toolkit
-permalink: /index.html
+permalink: /toolkit.html
 
 ---
 

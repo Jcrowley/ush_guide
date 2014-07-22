@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quickstart
-permalink: /index.html
+permalink: /quickstart.html
 
 ---
 

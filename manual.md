@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manual
-permalink: /index.html
+permalink: /manual.html
 
 ---
 

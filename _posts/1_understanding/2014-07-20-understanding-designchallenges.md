@@ -1,6 +1,6 @@
 ---
 layout: post
-docelement: 1.2
+doc_element: 1.2
 title: Design Challenges
 date: 2014-07-20
 published: true

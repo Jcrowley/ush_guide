@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_guide
 docelement: 0.1
 title: Introduction
 date: 2014-07-20

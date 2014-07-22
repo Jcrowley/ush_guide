@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_guide
 docelement: 1.3
 title: Key Concepts
 date: 2014-07-20

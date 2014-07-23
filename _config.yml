@@ -10,7 +10,10 @@ github_username:  jcrowley
 # Build settings
 markdown: kramdown
 permalink: pretty
+paginate: 5
 
+
+# prose.io settings
 prose:
     rooturl: _posts
     siteurl: http://jcrowley.net/guide
@@ -34,12 +37,4 @@ prose:
                     value: 'quickstart'
                   - name: 'Resource'
                     value: 'resource'         
-              placeholder: 'guide'
-              
-chapters:
-  - name: "Introduction"
-    value: 0
-  - name: "Understanding v3"
-    value: 1
-  - name: "Strategy"
-    value: 2                     
+              placeholder: 'guide'                   

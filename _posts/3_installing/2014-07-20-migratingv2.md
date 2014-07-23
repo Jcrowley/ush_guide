@@ -1,20 +1,20 @@
 ---
 layout: post_guide
-docelement: 0.1
-title: Introduction
+doc_element: 3.5
+title: Migrating from v2
 date: 2014-07-20
 published: true
 
 ---
 
-## Ushahidi as Testimony.
+## &sect; Migrating from v2
 
-From the 2008 Elections to citizen engagement. In Swahili, 'ushahidi' means testimony. During the 2008 Kenyan elections... Ushahidi was first designed as a platform to enable citizens of Kenya to tell their stories, to give testimony. Tell Ushahidi story...
+### Planning your  migration
 
-## What is Ushahidi?
+### Backing Up
 
-Today, Ushahidi might best be described as an organization that builds tools to empower communities. The original tool, Ushahidi SMS platform, has grown. Release v3 is a rethinking of the original idea. Simplified code. Simplified interface. Could even function as a headless API. Start to continued simplification and renewed engagement. How does it relate to other tools, how is it unique? Interface for digital data collection, relation to tech environment?
+### Migration Script
 
-## Why use Ushahidi and for what purpose?
+### Checking the data
 
-What do you need to think about first? Ushahidi is more than a tool; it is a set of practices that have emerged around how best to use citizen reports to collect data and analyze it for a particular end. These ends now include evidence gathering for human rights, citizen journalism, health mapping, etc...
+### Customization and Migration: what will not work?

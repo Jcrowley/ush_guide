@@ -1,16 +1,20 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 4.5
+title: Map Settings
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; Map Settings
 
-### Cloud v Rack Servers
+### Default Location
 
-### Tech expertise (ToR)
+### Cluster Reports
+
+### Map Base Layer
+
+### Default Zoom Level
 
 

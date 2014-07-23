@@ -7,5 +7,5 @@ published: true
 
 ---
 
-
+What is Clean Code and who is Uncle Bob?
 

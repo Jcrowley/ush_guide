@@ -1,14 +1,18 @@
 ---
 layout: post_guide
-docelement: 1.3
-title: Understanding v3
+doc_element: 2.1
+title: Reflect
 date: 2014-07-20
 published: true
 
 ---
 
-## Case: deploying v2 and finding challenges.
+## Reflect
+Before you install and configure Ushahidi, take time to think about your strategy and design your campaign.
 
-Custom development to meet needs. Security questions.
+### Practical Considerations
+
+### Questions to ask yourself
+
 
 

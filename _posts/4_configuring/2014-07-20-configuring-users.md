@@ -1,16 +1,26 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 4.4
+title: Managing Users
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; Managing Users
+An intro to users in Ushahidi. Roles and permissions. Views and exports limited by permissions, etc.
 
-### Cloud v Rack Servers
+### Roles and Permissions in v3
 
-### Tech expertise (ToR)
+### Managing Users Interface
+Roles: Admin, Member, Guest
+
+### Setting up admin, setting up initial team
+
+### Editing a User
+
+### Changing Roles
+
+### Deleting Users
 
 

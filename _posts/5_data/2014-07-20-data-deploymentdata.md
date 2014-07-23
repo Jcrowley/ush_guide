@@ -1,16 +1,25 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.3
+title: Data Models for Deployment Types
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; Data Models for Deployment Types
 
-### Cloud v Rack Servers
+### Human Rights Evidence Gathering
 
-### Tech expertise (ToR)
+### Crisis Reporting
 
+### Citizen Journalism
+
+### Election Monitoring
+
+### Health Mapping
+
+### Poverty Mapping
+
+### Sensor Tracking
 

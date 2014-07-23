@@ -1,11 +1,13 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.
+title: Spatial Resolution
 date: 2014-07-20
 published: true
 
 ---
+
+### Spatial Resolution: what do you need?
 
 
 

@@ -1,16 +1,17 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.2
+title: Data Model and Data Collection Methodology
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
 
-### Cloud v Rack Servers
+## &sect; Data Collection Methods
 
-### Tech expertise (ToR)
+### Limits of Data
 
+### Privacy
 
+### Security of Contributors

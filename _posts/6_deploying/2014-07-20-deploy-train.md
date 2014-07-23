@@ -1,11 +1,15 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 6
+title: Training
 date: 2014-07-20
 published: true
 
 ---
 
+## Training
 
+### Teaching Ushahidi to your staff
+
+### Instructing the crowd
 

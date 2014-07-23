@@ -1,16 +1,47 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.
+title: Custom Forms Creating your Data Model
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## Creating your Data Model
 
-### Cloud v Rack Servers
+### Matching data collection needs to post structure
 
-### Tech expertise (ToR)
+### Managing Forms
+
+#### Field Types
+
+##### Text
+
+##### Text Area
+
+##### Number (Decimal)
+
+##### Number (Integer)
+
+##### Select
+
+##### Radio
+
+##### Checkbox
+
+##### Checkboxes
+
+##### Date
+
+##### DateTime
+
+##### Location
+
+#### Creating a Form
+
+#### Editing a Form
+
+#### Deleting Forms
+
 
 

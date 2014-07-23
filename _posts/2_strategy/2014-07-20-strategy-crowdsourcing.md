@@ -1,14 +1,15 @@
 ---
 layout: post_guide
-doc_element: 0.1
-title: Understanding v3
+doc_element: 2.5
+title: Crowdsourcing
 date: 2014-07-20
 published: true
 
 ---
 
-## Case: deploying v2 and finding challenges.
+## &sect; Crowdsourcing
 
-Custom development to meet needs. Security questions.
+### Building a Campaign: If you build it, they might come:
 
+### Types of Crowdsourcing
 

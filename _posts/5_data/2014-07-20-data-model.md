@@ -1,16 +1,12 @@
 ---
 layout: post_guide
-chapter: 0
+doc_element: 5.
 title: Configuring
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
 
-### Cloud v Rack Servers
-
-### Tech expertise (ToR)
 
 

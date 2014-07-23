@@ -1,16 +1,18 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 4.2
+title: First Steps
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; First Steps: Localization, Site Settings, Users, and
 
-### Cloud v Rack Servers
+### Localization
 
-### Tech expertise (ToR)
+#### Language
+
+#### Time Zone
 
 

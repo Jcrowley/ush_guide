@@ -1,16 +1,30 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 4.3
+title: Site Settings
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; Modifying Site Settings
 
-### Cloud v Rack Servers
+### Site Name
 
-### Tech expertise (ToR)
+### Site Owner Name
+
+## Features
+
+### Media Uploads
+
+### Sets UI
+
+### API Explorer
+
+### Data Provider Configuration
+
+### Post Export
+
+### Form Wizard
 
 

@@ -1,14 +1,20 @@
 ---
 layout: post_guide
-docelement: 1.3
-title: Understanding v3
+doc_element: 2.4
+title: Staffing
 date: 2014-07-20
 published: true
 
 ---
 
-## Case: deploying v2 and finding challenges.
+## &sect; Staffing
 
-Custom development to meet needs. Security questions.
+### Staffing Plan
+
+### Roles
+
+### Hiring
+
+### Training
 
 

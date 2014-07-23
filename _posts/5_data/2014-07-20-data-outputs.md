@@ -1,16 +1,20 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.3
+title: Defining your Outputs
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; Defining your Outputs
 
-### Cloud v Rack Servers
+### Maps
 
-### Tech expertise (ToR)
+### Visualizations
+
+### Decision Makers Needs
+
+### Information Overload
 
 

@@ -1,16 +1,24 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.4
+title: Posts and Messages in Ushahidi
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+# &sect; Posts and Messages in Ushahidi
 
-### Cloud v Rack Servers
+### Posts
 
-### Tech expertise (ToR)
+#### SMS Posts
+
+#### Web Posts
+
+### Messages
+
+#### Email Messages
+
+#### Social Media Messages (Twitter)
 
 

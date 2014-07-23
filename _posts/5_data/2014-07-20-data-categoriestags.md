@@ -1,16 +1,18 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 5.
+title: Categories and Tags
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+### Categories and Tags
 
-### Cloud v Rack Servers
+#### Planning categorization of posts and messages
 
-### Tech expertise (ToR)
+#### Categories
+
+#### Tags
 
 

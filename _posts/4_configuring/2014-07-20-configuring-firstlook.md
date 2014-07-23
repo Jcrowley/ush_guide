@@ -1,16 +1,20 @@
 ---
 layout: post_guide
-chapter: 0
-title: Configuring
+doc_element: 4.1
+title: Configuration First Looks
 date: 2014-07-20
 published: true
 
 ---
 
-## Tech Environment
+## &sect; First Look at the Site
 
-### Cloud v Rack Servers
+### Setting up initial admin user and password
 
-### Tech expertise (ToR)
+### Introduction to Workspace
+
+### Introduction to Views
+
+### Introduction to Posts and Messages
 
 

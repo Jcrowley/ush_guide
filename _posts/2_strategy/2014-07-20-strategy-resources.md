@@ -1,14 +1,14 @@
 ---
 layout: post_guide
-docelement: 1.3
-title: Understanding v3
+doc_element: 2.8
+title: Resources
 date: 2014-07-20
 published: true
 
 ---
 
-## Case: deploying v2 and finding challenges.
+## &sect; Resources
 
-Custom development to meet needs. Security questions.
+### Costs
 
 

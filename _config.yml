@@ -37,4 +37,16 @@ prose:
                     value: 'quickstart'
                   - name: 'Resource'
                     value: 'resource'         
-              placeholder: 'guide'                   
+              placeholder: 'guide'   
+        - name: "editor"
+          field:
+            element: "multiselect"
+              label: "Editor"
+              help: "Ushahidi Staff Editor"
+              options: 
+                  - name: 'Jennifer Chan'
+                    value: 'JenniferChan7'
+                  - name: 'John Crowley'
+                    value: 'jcrowley'  
+                  - name: 'Shadrock Roberts'
+                    value: 'shadrock'

@@ -33,10 +33,9 @@
 				
 				<ul>
 				{% for post in site.posts %}
-				  {% if post.author == "jcrowley" %}
+				  {% if post.editor == "jcrowley" %}
 					<li>{{post.title}}</li>
-			      {% endif %}
-						  	
+			      {% endif %} 	
 			    {% endfor %}
 			    </ul>
 			</div>

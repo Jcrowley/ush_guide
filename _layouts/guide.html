@@ -32,7 +32,7 @@
 				{{content}}
 				
 				<ul>
-				{% for post in site.posts %}
+				{% for post in site.posts | group_by: "editor" %}
 
 					<li>{{post.editor}}&para; {{post.title}} </li>
 

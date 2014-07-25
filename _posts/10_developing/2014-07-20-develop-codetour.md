@@ -5,6 +5,10 @@ title: Configuring
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+editor: jcrowley
+
 ---
 
 A narrated tour of the Ushahidi Code.

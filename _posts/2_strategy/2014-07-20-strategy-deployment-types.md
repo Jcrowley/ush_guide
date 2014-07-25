@@ -5,6 +5,11 @@ title: Deployment Types
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+	- toolkit
+editor: JenniferChan7
+
 ---
 
 ## &sect; Deployment Types

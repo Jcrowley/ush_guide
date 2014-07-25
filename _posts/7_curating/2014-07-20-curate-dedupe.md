@@ -5,6 +5,13 @@ title: Curating Posts and Messages Deduplication
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+	- toolkit
+editor: shadrock
+
 ---
 
 ## Deduplication
+
+workflows

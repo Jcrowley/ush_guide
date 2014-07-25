@@ -5,6 +5,11 @@ title: Map Settings
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+	- quickstart
+editor: shadrock
+
 ---
 
 ## &sect; Map Settings

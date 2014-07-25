@@ -5,7 +5,14 @@ title: Curating Posts and Messages Clustering
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+	- toolkit
+editor: shadrock
+
 ---
 
 ## Clustering
+
+workflows
 

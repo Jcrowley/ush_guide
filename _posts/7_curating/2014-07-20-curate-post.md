@@ -5,6 +5,10 @@ title: Curating a Post
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+editor: jcrowley
+
 ---
 
 ## Managing Individual Posts

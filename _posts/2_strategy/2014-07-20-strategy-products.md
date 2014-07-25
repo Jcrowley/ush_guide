@@ -5,6 +5,11 @@ title: Product Matrix
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+	- toolkit
+editor: jcrowley
+
 ---
 
 ## &sect; Ushahidi Product Matrix

@@ -5,6 +5,10 @@ title: Posts and Messages in Ushahidi
 date: 2014-07-20
 published: true
 
+pub: 
+	- guide
+editor: jcrowley
+
 ---
 
 # &sect; Posts and Messages in Ushahidi

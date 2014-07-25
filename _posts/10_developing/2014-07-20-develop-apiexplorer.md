@@ -4,11 +4,11 @@ doc_element: 10.1
 title: API Explorer
 date: 2014-07-20
 published: true
-
+editor: jcrowley
 pub: 
 	- guide
 	
-editor: jcrowley
+
 
 ---
 

@@ -30,6 +30,15 @@
 			<!-- form -->
 			<div class="form-attributes">
 				{{content}}
+				
+				<ul>
+				{% for post in site.posts %}
+				  {% if post.author == "jcrowley" %}
+					<li>{{post.title}}</li>
+			      {% endif %}
+						  	
+			    {% endfor %}
+			    </ul>
 			</div>
 
 		</div><!-- end list-view-wrapper -->

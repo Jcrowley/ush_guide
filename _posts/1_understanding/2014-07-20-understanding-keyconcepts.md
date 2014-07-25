@@ -6,7 +6,7 @@ date: 2014-07-20
 published: true
 
 pub: 
-	- guide
+  - guide
 editor: jcrowley
 
 demo: 1

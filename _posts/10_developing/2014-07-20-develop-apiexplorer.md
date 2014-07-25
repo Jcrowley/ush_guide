@@ -5,6 +5,8 @@ title: API Explorer
 date: 2014-07-20
 published: true
 editor: jcrowley
+pub: 
+  - guide
 ---
 
 A section detailing the API Explorer, as the functionality comes into completion.

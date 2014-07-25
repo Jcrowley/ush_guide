@@ -6,8 +6,8 @@ date: 2014-07-20
 published: true
 
 pub: 
-	- guide
-	- toolkit
+  - guide
+  - toolkit
 editor: shadrock
 
 ---
